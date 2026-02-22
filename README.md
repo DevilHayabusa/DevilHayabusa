@@ -1,3 +1,14 @@
+ <!-- Welcome -->
+<h1  align="center">Hi dude <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+  <!-- Typing Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full+Stack+Developer.">
+</p>
+
+  <!-- Profile Picture -->
+<img align="left" height="150" src="https://avatars.githubusercontent.com/u/79465558?v=4&"/>
+
   <!-- Description -->
 ```diff
 🛠️ 25 years of professional experience.
@@ -40,5 +51,28 @@
           <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg" width="50" alt="Unity logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="52" alt="Android Studio logo" />
         </td>
-    </tr>
+          <!-- Socials -->
+        </tr>
 </table>
+</br>
+
+
+# MoreAbout ME 💬 :
+
+### - I'm 18 years old programmer who creates scripts, video games, web pages, desktop applications, etc. from Mexico🌮.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ Unity
+- ✨ Blender
+- ✨ Linux
+
+### - Hobbies : 
+- ✨ Play Guitar
+- ✨ Videogames
+- ✨ Reading Some books
+- ✨ Gym
+
+</br>
+
