@@ -103,7 +103,7 @@
   <a href="https://tiktok.com/@TU_USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-   <a href="mailto:rubengear83.com" target="_blank">
+   <a href="mailto:rubengear83@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
  <a href="https://www.linkedin.com/in/ruben-garcia-a51b15366/" target="_blank">
