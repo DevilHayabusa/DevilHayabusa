@@ -11,7 +11,7 @@
 
   <!-- Description -->
 ```diff
-🛠️ 25 years of professional experience.
+🛠️ +2 years of professional experience.
 +  ✔️ Responsible worker.
 #  👨‍💻 Passionate about code.
 -  🛠️ Web page builder.
@@ -80,16 +80,16 @@
   <a href="https://youtube.com/@TU_CANAL" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://instagram.com/TU_USUARIO" target="_blank">
+  <a href="https://www.instagram.com/devil_hayabusa/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://tiktok.com/@TU_USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-   <a href="mailto:TU_CORREO@gmail.com" target="_blank">
+   <a href="mailto:rubengear83.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
- <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+ <a href="https://www.linkedin.com/in/ruben-garcia-a51b15366/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://profile.indeed.com/p/TU_ID" target="_blank">
