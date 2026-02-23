@@ -59,7 +59,7 @@
 
 # MoreAbout ME 💬 :
 
-### - I'm 18 years old developer passionate about building tools that make an impact. My journey has taken me from desktop architecture to game design and now to the modern web
+### - I'm 18 years old developer passionate about building tools. My journey has taken me from desktop architecture to game design and now to the modern web
 
 ### 🛠 Tech Stack & Experience
 
