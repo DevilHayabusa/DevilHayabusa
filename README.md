@@ -59,20 +59,37 @@
 
 # MoreAbout ME 💬 :
 
-### - I'm 18 years old programmer who creates scripts, video games, web pages, desktop applications, etc. from Mexico🌮.
+### - I'm 18 years old developer passionate about building tools that make an impact. My journey has taken me from desktop architecture to game design and now to the modern web
+
+### 🛠 Tech Stack & Experience
+
+* **C# / .NET:** Desktop applications & Client-Server networking.
+* **Xamarin:** Cross-platform mobile development.
+* **Python:** Automation algorithms, microphone/PC integration, and Game Dev (focused on social awareness).
+* **Web Development:** Currently building responsive and scalable web apps.
+
+---
+*“Turning logic into solutions, one line of code at a time.”*
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/1X_xHCm4xHgAAAAd/please-come-now-im-falling.gif">
 
 ### - Learning :
-- ✨ Unity
+- 🎮 Unity
 - ✨ Blender
-- ✨ Linux
+- 🐧 Linux
 
 ### - Hobbies : 
-- ✨ Play Guitar
-- ✨ Videogames
-- ✨ Reading Some books
-- ✨ Gym
+🎸 Playing Guitar: I enjoy learning new songs like Nutshell(Alice In Chains), Like a stone (Audioslave), One Last Breath (Creed).
+
+🎮 Gaming & Tech: Exploring both the software and the hardware side of the gaming industry. I love Ninja Gaiden
+
+📚 Reading: Always looking for a good book (How to win Friends and Influence People, The 4-Hour Workweek, etc).
+
+🏋️ Fitness: Staying active and hitting the gym to keep a balanced lifestyle.
+
+🛠️ Hardware Repair: Reviving computers, smartphones, and game consoles.
+
+🔧 Troubleshooting: I love the challenge of diagnosing and fixing what’s broken.
 
 </br>
 <h3 align="left">Connect with me:</h3>
