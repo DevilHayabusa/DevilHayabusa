@@ -65,23 +65,24 @@
 
 * **C# / .NET:** Desktop applications & Client-Server networking.
 * **Xamarin:** Cross-platform mobile development.
-* **Python:** Automation algorithms, microphone/PC integration, and Game Dev (focused on social awareness).
+* **Python:** Automation algorithms, microphone/PC integration, scrapingweb, and Game Dev (focused on social awareness).
 * **Web Development:** Currently building responsive and scalable web apps.
-
+* **Arch Linux:** Like as my main operating system.
+  
 ---
 *“Turning logic into solutions, one line of code at a time.”*
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/1X_xHCm4xHgAAAAd/please-come-now-im-falling.gif">
 
 ### - Learning :
-- 🎮 Unity
-- ✨ Blender
-- 🐧 Linux
+- Hacking
+- Servers
+- Linux
 
 ### - Hobbies : 
 🎸 Playing Guitar: I enjoy learning new songs like Nutshell(Alice In Chains), Like a stone (Audioslave), One Last Breath (Creed).
 
-🎮 Gaming & Tech: Exploring both the software and the hardware side of the gaming industry. I love Ninja Gaiden
+🎮 Gaming & Tech: Exploring both the software and the hardware side of the gaming industry. I love Ninja Gaiden and Gears of War
 
 📚 Reading: Always looking for a good book (How to win Friends and Influence People, The 4-Hour Workweek, etc).
 
