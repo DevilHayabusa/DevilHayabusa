@@ -11,10 +11,10 @@
 
   <!-- Description -->
 ```diff
-🛠️ +2 years of professional experience.
+🛠️ +4 years of professional experience.
 +  ✔️ Responsible worker.
 #  👨‍💻 Passionate about code.
--  🛠️ Web page builder.
+-  🛠️ Backend and trerminal
 !  ✨ i'm six feet form the edge... 
 @@ 💻Solving problems from a ThinkPad.@@
 ```
